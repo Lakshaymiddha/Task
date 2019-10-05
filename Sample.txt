@@ -1,3 +1,1 @@
-This is a sample file to show the use of Git
-Another text added
-
+This is a sample file to show the use of Github.
